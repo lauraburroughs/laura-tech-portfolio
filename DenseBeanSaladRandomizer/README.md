@@ -25,15 +25,6 @@ Designed as a playful project to experiment with randomization, basic UI/UX cons
 
 ---
 
-## How to Run
-
-1. **Compile the code**
-
-```bash
-javac DenseBeanSaladRandomizer.java
-
----
-
 ## Files Included
 
 - DenseBeanSaladRandomizer.java — Main file containing ingredient database, randomizer logic, and output display
