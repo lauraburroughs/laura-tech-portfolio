@@ -2,6 +2,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+* @author Laura Burroughs
+* @version 2 July 2025
+*/
+
 public class WordSearchGUI {
    public static void main(String[] args) {
       // Create the game
