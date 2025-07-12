@@ -16,6 +16,8 @@ import java.util.List;
  * string does not have to be a word, while the use of 'word' implies that the
  * referenced string must be a word.
  *
+ * @author Laura Burroughs
+ * @version 2 July 2025
  */
 public interface WordLadderGame {
 
