@@ -1,0 +1,13 @@
+chicken
+salmon
+shrimp
+tofu
+TVP
+sausage
+pulled pork
+turkey
+pepperoni
+eggs
+crab
+bacon
+ham

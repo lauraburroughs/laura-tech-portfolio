@@ -1,0 +1,24 @@
+broccoli
+onion
+scallion
+potato
+sweet potato
+zucchini
+carrot
+parsnip
+corn
+bell pepper
+peas
+cucumber
+radish
+kale
+cabbage
+brussel sprouts
+asparagus
+green beans
+tomato
+cauliflower
+mushrooms
+spinach
+butternut squash
+summer squash
