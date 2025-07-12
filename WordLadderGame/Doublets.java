@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 /**
  * Provides an implementation of the WordLadderGame interface. 
  *
- * @author Laura Burroughs (lat0061@auburn.edu)
+ * @author Laura Burroughs
  * @version 30 June 2025
  */
  
